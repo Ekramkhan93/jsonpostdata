@@ -2,5 +2,10 @@
 	"loads": [{
 		"load1": 1,
 		"load2": 1
-	}]
+	}],
+	"routes":[{"post": "/post",
+"put": "/put",
+"patch": "/patch",
+"delete": "/delete"
+}]
 }
